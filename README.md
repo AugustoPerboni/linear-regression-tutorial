@@ -1,2 +1,2 @@
-# linear-regression-tutorial
-Code related to Medium post 
+# Mastering Linear Regression
+The is a repository to share the code use in my Mastering Linear Regression post on Medium
